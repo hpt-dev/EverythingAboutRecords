@@ -1,0 +1,15 @@
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\bin\Debug\net6.0\RecordsTutorial.exe
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\bin\Debug\net6.0\RecordsTutorial.deps.json
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\bin\Debug\net6.0\RecordsTutorial.runtimeconfig.json
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\bin\Debug\net6.0\RecordsTutorial.dll
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\bin\Debug\net6.0\RecordsTutorial.pdb
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.csproj.AssemblyReference.cache
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.AssemblyInfoInputs.cache
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.AssemblyInfo.cs
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.dll
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\refint\RecordsTutorial.dll
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.pdb
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\RecordsTutorial.genruntimeconfig.cache
+C:\Users\hrtd\Source\Repos\RecordsTutorial\RecordsTutorial\obj\Debug\net6.0\ref\RecordsTutorial.dll
