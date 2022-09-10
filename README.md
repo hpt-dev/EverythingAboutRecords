@@ -1,4 +1,4 @@
-# EverythingAboutRecords
+# Everything About Records in C#
 
 Project about learning records in c# used in this video:
 
